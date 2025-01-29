@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenzu03&label=Profile%20views&color=0e75b6&style=flat" alt="rubenzu03" /> </p>
 
-- 🔭 I’m currently working on [Requiem For A Beat](https://campalans.itch.io/requiem-for-a-beat)
+- 🔭 I’m currently working on: [Requiem For A Beat](https://campalans.itch.io/requiem-for-a-beat)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning: **Rust**
 
-- 📫 How to reach me **rubenzuarancon@gmail.com**
+- 📫 How to reach me: **rubenzuarancon@gmail.com**
 
-- ⚡ Fun fact **"Funny"**
+- ⚡ Fun fact: I'm **"Funny"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
