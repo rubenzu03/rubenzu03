@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rubén Zuñiga</h1>
-<h3>Developer from Spain, always searching for new ways to solve problems</h3>
+<h3>Developer from Spain, looking for new ways to solve problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenzu03&label=Profile%20views&color=0e75b6&style=flat" alt="rubenzu03" /> </p>
 
