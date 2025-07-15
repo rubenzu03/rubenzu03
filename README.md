@@ -24,6 +24,7 @@
    <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&Color=black"/>
    <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Blender-E87D0D?logo=Blender&logoColor=white"/>
 </p>
 
