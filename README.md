@@ -17,18 +17,8 @@
 </p>
 
 <h3 align="left">🛠Languages and Tools:</h3>
-<p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
-<img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
-<img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
-<img src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">&nbsp;
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
-<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown"><br>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
-<img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&amp;logo=eclipse-ide&amp;logoColor=2C2255" alt="Eclipse"><br>
-<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
+<img src="https://img.shields.io/badge/-Blender-E87D0D?style=flat?logo=blender&logoColor=black>;
+
 
 
 <!--
