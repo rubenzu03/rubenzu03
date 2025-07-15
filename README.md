@@ -18,7 +18,7 @@
 
 <h3 align="left">🛠Languages and Tools:</h3>
 <p>
-   <img src="https://img.shields.io/badge/-Blender-E87D0D?style=flat?logo=blender&logoColor=black>;
+   <img src="https://img.shields.io/badge/-Blender-E87D0D?style=flat?logo=blender&logoColor=black"/>
 </p>
 
 
