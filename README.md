@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: [Requiem For A Beat](https://campalans.itch.io/requiem-for-a-beat)
 
-- 🌱 I’m currently learning: **Rust**
+- 🌱 I’m currently learning: **Kotlin**
 
 - 📫 How to reach me: **rubenzuarancon@gmail.com**
 
