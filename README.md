@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenzu03&label=Profile%20views&color=0e75b6&style=flat" alt="rubenzu03" /> </p>
 
-- 🔭 I’m currently working on: [Requiem For A Beat](https://campalans.itch.io/requiem-for-a-beat)
+- 🔭 I’m currently working on: Developing apps based on Material 3 design 
 
 - 🌱 I’m currently learning: **Kotlin**
 
