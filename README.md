@@ -21,11 +21,13 @@
    <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white"/>
    <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&Color=white"/>
-   <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Java-FC4C02?logo=&logoColor=black"/>
    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&Color=black"/>
+   <img src="https://img.shields.io/badge/-Android Studio-3DDC84?logo=androidstudio&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white"/>
    <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite"/>
    <img src="https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black"/>
    <img src="https://img.shields.io/badge/-Blender-E87D0D?logo=Blender&logoColor=white"/>
 </p>
