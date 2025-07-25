@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: <a> https://github.com/rubenzu03/Catbrary </a>
 
-- 🌱 I’m currently learning: **Kotlin**
+- 🌱 I’m currently learning: **React**
 
 - 📫 How to reach me: **rubenzuarancon@gmail.com**
 
