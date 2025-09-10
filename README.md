@@ -16,22 +16,31 @@
    <img height="180em" width="450em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rubenzu03&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </p>
 
-<h3 align="left">🛠Languages and Tools:</h3>
+<h3 align="left">🛠Languages:</h3>
 <p>
    <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white"/>
    <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&Color=white"/>
-   <img src="https://img.shields.io/badge/-Java-FC4C02?logo=&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-C%23-9c75d5"/>
+   <img src="https://img.shields.io/badge/-Java-FC4C02?logo=&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Android Studio-3DDC84?logo=androidstudio&logoColor=black"/>
-   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=242424"/>
    <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white"/>
    <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite"/>
+</p>
+<h3 align="left">🛠Frameworks:</h3>
+<p>
+   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Jetpack Compose-4285F4?logo=jetpackcompose&logoColor=white"/>
+</p>
+<h3 align="left">🛠Tools:</h3>
+<p>
+   <img src="https://img.shields.io/badge/-Android Studio-3DDC84?logo=androidstudio&logoColor=black"/>
    <img src="https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black"/>
    <img src="https://img.shields.io/badge/-Blender-E87D0D?logo=Blender&logoColor=white"/>
 </p>
-
 
 
 <!--
