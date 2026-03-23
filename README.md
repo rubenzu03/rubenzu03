@@ -3,11 +3,10 @@
 <h2> About me:</h2>
 
 <h3>💻Software Developer with experience working on Linux-based environments<h3>
-<h4>🐧 Currently using Linux (Fedora) for development </h4>
 
 - 🔭 I’m currently working on: <a> https://github.com/rubenzu03/RAG_chatbot </a>
 
-- 🌱 I’m currently learning: **React**
+- 🌱 I’m currently learning: **Langchain**
 
 - 📫 How to reach me: **rubenzuarancon@gmail.com**
  
