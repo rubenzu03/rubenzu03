@@ -4,7 +4,7 @@
 
 <h3>💻Software Developer with experience working on Linux-based environments<h3>
 
-- 🔭 I’m currently working on: <a> https://github.com/rubenzu03/RAG_chatbot </a>
+- 🔭 I’m currently working on: <a href="https://github.com/rubenzu03/LLM-Toolbox"> LLM Toolbox </a>
 
 - 🌱 I’m currently learning: **Langchain**
 
